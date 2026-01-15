@@ -265,7 +265,7 @@ Laporan lengkap Ujian Akhir Semester tersedia dalam format PDF yang meliputi:
 
 ## 📞 Kontak & Support
 Untuk pertanyaan atau masalah terkait proyek ini:
-- **GitHub Issues**: [Buat Issue Baru](https://github.com/olansibermu/DATABASE-MAHASISWA/issues)
+- **GitHub Issues**: (https://github.com/olansibermu/DATABASE-MAHASISWA/issues)
 - **Email**: olan20240100258@sibermu.ac.id
 - **Pembimbing**: Latifah Iriani
 
