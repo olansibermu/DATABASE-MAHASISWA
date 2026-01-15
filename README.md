@@ -1,7 +1,7 @@
 # 📋 Sistem Manajemen Data Mahasiswa
 
-**Nama:** [ISI NAMA LENGKAP ANDA]
-**NIM:** [ISI NIM ANDA]
+**Nama:** Olan Demas Bumi
+**NIM:** 20240100258
 **Mata Kuliah:** Pengembangan Aplikasi Basis Data
 **Ujian Akhir Semester - Proyek Aplikasi Database**
 
@@ -256,23 +256,23 @@ Laporan lengkap Ujian Akhir Semester tersedia dalam format PDF yang meliputi:
 ## 👨‍💻 Informasi Developer
 | | |
 |---|---|
-| **Nama** | [NAMA LENGKAP ANDA] |
-| **NIM** | [NIM ANDA] |
-| **Program Studi** | [NAMA PRODI] |
-| **Universitas** | [NAMA UNIVERSITAS] |
-| **Email** | [EMAIL ANDA] |
+| **Nama** | Olan Demas Bumi |
+| **NIM** | 20240100258 |
+| **Program Studi** | INFORMATIKA |
+| **Universitas** | SIBERMU |
+| **Email** | olan20240100258@sibermu.ac.id |
 | **GitHub** | [olansibermu](https://github.com/olansibermu) |
 
 ## 📞 Kontak & Support
 Untuk pertanyaan atau masalah terkait proyek ini:
 - **GitHub Issues**: [Buat Issue Baru](https://github.com/olansibermu/DATABASE-MAHASISWA/issues)
-- **Email**: [EMAIL ANDA]
-- **Pembimbing**: [NAMA DOSEN PABD]
+- **Email**: olan20240100258@sibermu.ac.id
+- **Pembimbing**: Latifah Iriani
 
 ## 📜 Lisensi & Hak Cipta
 Proyek ini dibuat sebagai bagian dari **Ujian Akhir Semester** mata kuliah **Pengembangan Aplikasi Basis Data**. 
 
-**© [TAHUN] - [NAMA ANDA].** 
+**© 2026 - Olan Demas Bumi.** 
 Dilarang memperbanyak, mendistribusikan, atau memodifikasi tanpa izin penulis.
 
 ---
